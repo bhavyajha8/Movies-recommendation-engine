@@ -41,6 +41,7 @@ The development of the application involved five stages:
 
 [![Link to the Application](https://img.shields.io/badge/Link_to_the_Application-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhavya-recommends.herokuapp.com/)
 - As the page opens, write the name of the movie in the dialog box you want recommendations for.
+![Screenshot (158)](https://user-images.githubusercontent.com/105009730/170875525-bc3cdea9-88f8-48fc-b010-e7a3472938ce.png)
 - Voila! You get 5 similar movies recommended to you.
 
 
