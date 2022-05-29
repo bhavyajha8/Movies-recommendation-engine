@@ -37,7 +37,8 @@ The development of the application involved five stages:
 ## Deployment
 - Application was deployed via Heroku App.
 # Navigating through the application
-- Click the link to redirect to the web application
+- Click the link to redirect to the web application:
+
 [![Link to the Application](https://img.shields.io/badge/Link_to_the_Application-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhavya-recommends.herokuapp.com/)
 - As the page opens, write the name of the movie in the dialog box you want recommendations for.
 - Voila! You get 5 similar movies recommended to you.
