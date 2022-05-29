@@ -1,5 +1,5 @@
 
-# Movie Recommendation Apllication
+# Movie Recommendation Application
 
 
 
