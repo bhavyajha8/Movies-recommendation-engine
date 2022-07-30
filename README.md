@@ -4,7 +4,6 @@
 
 
 ## About the Project
-- Movie recommendation application made during Microsoft Engage'22.
 - It is a recommendation engine which can suggest maximum of 5 similar movies.
 ## Compatible platforms
 Laptops, PCs and mobile.
